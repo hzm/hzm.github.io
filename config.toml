@@ -1,0 +1,4 @@
+baseURL = 'http://hzm.github.io/'
+languageCode = 'en-us'
+title = '狼图腾的主页'
+theme = 'PaperMod'
