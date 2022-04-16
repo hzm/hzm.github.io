@@ -10,3 +10,7 @@ My first blog
 
 ![Hugo Logo](../../images/hugo-logo-wide-16501041963543.svg)
 
+设置方法参考：
+
+https://xujiahua.github.io/posts/20200310-github-pages-restart/
+
