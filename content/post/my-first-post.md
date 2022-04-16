@@ -8,3 +8,5 @@ draft: false
 
 My first blog
 
+![Hugo Logo](/home/hzm/hzm_blog/images/hugo-logo-wide.svg)
+
